@@ -1,0 +1,4 @@
+{
+"ADMIN-999": { "role": "admin", "expire": "2099-12-31" },
+"VIP-TEST": { "role": "user", "expire": "2026-12-31" }
+}

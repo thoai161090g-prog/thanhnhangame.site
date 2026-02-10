@@ -1,0 +1,5 @@
+body,html{margin:0;font-family:Arial;color:#fff}
+.bg{position:fixed;width:100%;height:100%;object-fit:cover;z-index:-1}
+.box{background:rgba(0,0,0,.6);padding:30px;width:300px;margin:120px auto;border-radius:12px}
+input,button{width:100%;padding:10px;margin:8px 0}
+button{background:#ff0055;border:0;color:#fff}
